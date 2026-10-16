@@ -11,10 +11,7 @@
       "Edit(**/*credential*)",
       "Bash(*.env*)",
       "Bash(*secret*)",
-      "Bash(*credential*)",
-      "PowerShell(*.env*)",
-      "PowerShell(*secret*)",
-      "PowerShell(*credential*)"
+      "Bash(*credential*)"
     ]
   }
 }
